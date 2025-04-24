@@ -1,0 +1,4 @@
+- Modificar com seu Token Bot do Telegram
+- Modificar com seu IP da OLT
+- Modificar com seu IP do UNM2000
+- Modificar Usuarios e senhas
